@@ -1,3 +1,8 @@
+var _ = require("lodash");
+var array = [1,2,4,5,5,6,7,7,88,8,9];
+console.log(_.without(array,4));
+
+
 var del = document.getElementsByClassName("delete")[0];
 var submit = document.getElementById("submit");
 var bgbody = document.getElementById("bgbody");
