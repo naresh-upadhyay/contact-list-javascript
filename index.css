@@ -1,0 +1,9 @@
+.delete , .class{
+    color: red;
+}
+#submit{
+    color: green;
+}
+body{
+    background: linear-gradient(to right , #f000ff,#ffff00);
+}
